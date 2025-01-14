@@ -2,6 +2,7 @@
 Due to the size of the files for this project I chose to use a data clean and combination method in python.
 The data for this project can be found on the Citi Bike public website : https://citibikenyc.com/system-data
 I focused on years 2022 and 2023 to see if there were differences year over year.
+Python code files are uploaded to GitHub for reference, but the data outputs are too large to upload.
 
 File Handling:
 
